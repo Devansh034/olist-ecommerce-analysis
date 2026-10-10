@@ -4,7 +4,7 @@
 
 **Interactive dashboard:** [Tableau Public](https://public.tableau.com/views/OlistE-commerceSalesDashboard_17916351464820/OlistE-commerceSalesDashboard)
 
-![Dashboard](dashboard.png)
+![Dashboard](Dashboard.png).
 
 ## Data
 - [Olist Brazilian E-Commerce dataset](https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce) (Kaggle): orders, items, customers, products, payments, reviews and sellers.
